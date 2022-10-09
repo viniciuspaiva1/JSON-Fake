@@ -1,0 +1,29 @@
+[{
+	"id": 1,
+	"nomeProduto": "Açaí 500ml",
+	"detalhe": "+ cremes e recheios",
+	"preco": "R$ 13,00",
+	"imgProduto": "...",
+	"aspectRatio": 1.777
+}, {
+	"id": 2,
+	"nomeProduto": "Açaí 400ml",
+	"detalhe": "+ cremes e recheios",
+	"preco": "R$ 10,00",
+	"imgProduto": "...",
+	"aspectRatio": 1.777
+}, {
+	"id": 3,
+	"nomeProduto": "Açaí 350ml",
+	"detalhe": "+ cremes e recheios",
+	"preco": "R$ 8,00",
+	"imgProduto": "...",
+	"aspectRatio": 1.777
+}, {
+	"id": 4,
+	"nomeProduto": "Açaí 250ml",
+	"detalhe": "+ recheios",
+	"preco": "R$ 6,00",
+	"imgProduto": "...",
+	"aspectRatio": 1.777
+}]
