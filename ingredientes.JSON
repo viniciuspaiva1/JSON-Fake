@@ -1,13 +1,7 @@
 [{
 	"id": 1,
 	"titulo1": "Escolha até 02 Cremes",
-	"cremes": ["Açaí", "Cupuaçu", "Creme de Oreo"],
+	"cremes": ["Açaí", "Cupuaçu", "Creme de Oreo", "Creme de Ninho"],
 	"titulo2": "Escolha até 08 Recheios",
-	"recheios": ["Leite Condesado", "Granola", "Amendoim"]
-}, {
-	"id": 2,
-	"titulo1": "Escolha 01 Creme",
-	"cremes": ["Açaí", "Cupuaçu", "Creme de Oreo"],
-	"titulo2": "Escolha até 06 Recheios",
-	"recheios": ["Leite Condesado", "Granola", "Amendoim"]
+	"recheios": ["Leite Condesado", "Granola", "Amendoim", "Paçoca", "Chocoball", "Castanha", "Leite em pó"]
 }]
